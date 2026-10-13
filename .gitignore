@@ -22,3 +22,5 @@ htmlcov/
 # Staff computer files
 .DS_Store      # For teachers with Macs
 Thumbs.db      # For teachers with Windows
+
+text     # Local development files stay out of version control     
