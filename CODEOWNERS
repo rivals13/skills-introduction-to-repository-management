@@ -1,0 +1,9 @@
+# Core functionality - changes here should be rare!
+
+/src/app.py                   @rivals13
+/src/backend/database.py      @rivals13
+/src/backend/routers/auth.py  @rivals13
+
+# The frontend will need refactored soon to be more object oriented.
+
+/src/static/   @rivals13
